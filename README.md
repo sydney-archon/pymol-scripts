@@ -2,4 +2,8 @@
 Scripts to be used for pymol configuration.
 
 ## How to use
-download as zip. name folder as `pymol_scripts` and place in `software` folder that contains pymol installation.
+Download as zip. Place `cage_interface_viewer.pml` in same directory as `pymol` folder containing pymol installation.
+Place remainder of scripts inside `pymol` folder containing pymol installation.
+
+#### Example directory setup
+<img width="271" alt="Screenshot 2025-01-06 at 2 44 01 PM" src="https://github.com/user-attachments/assets/1834972b-7eee-4ccb-9583-9f24d0217441" />
